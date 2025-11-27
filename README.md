@@ -1,6 +1,5 @@
 # 📊 Car Price Analytics — SQL | Excel | Power BI  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-![License](https://img.shields.io/badge/License-MIT-blue)  
 ![Tools](https://img.shields.io/badge/Tools-SQL%20%7C%20Excel%20%7C%20PowerBI-orange)  
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-yellow)  
 ![Data](https://img.shields.io/badge/Data%20Size-2.5k%2B%20Rows-lightgrey)
@@ -46,13 +45,13 @@ The dataset includes:
 
 ## 📁 Workflow Breakdown
 
-### 1️⃣ Data Cleaning
+### Data Cleaning
 - Removed duplicates & irrelevant entries  
 - Standardized categories (Brand, Model, Fuel Type, Transmission and condition)  
 - Corrected inconsistent values  
 - Imputed missing engine sizes based on similar model segments  
 
-### 2️⃣3️⃣ Exploratory SQL Analysis
+### Exploratory SQL Analysis
 
 ## Data exloration (MySQL)
 - Created calculated fields for:
