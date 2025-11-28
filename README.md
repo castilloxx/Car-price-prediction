@@ -7,6 +7,8 @@
 A complete end-to-end data analytics project exploring **what drives used car pricing** using **MySQL, Excel, and Power BI visualizations**.  
 The goal was to uncover **price patterns, depreciation behavior, and feature-based value differences** across brands, mileage, engine size, fuel type & car age.
 
+<img width="1363" height="557" alt="Screenshot 2025-11-27 132143" src="https://github.com/user-attachments/assets/c4c4b0bb-d3f5-400b-b627-2331004dc44f" />
+
 ---
 
 ## 🚀 Project Objectives
@@ -42,6 +44,9 @@ The dataset includes:
 - `Price_Bucket` - Groups cars into pricing tiers
 
 ---
+
+<img width="1363" height="556" alt="Screenshot 2025-11-27 132233" src="https://github.com/user-attachments/assets/53d176cd-9329-4f94-bca3-64e02e5837b7" />
+
 
 ## 📁 Workflow Breakdown
 
